@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Protein-Visualizer-2.0/static/css/main.1f1b2050.css",
-    "main.js": "/Protein-Visualizer-2.0/static/js/main.3defd3e1.js",
+    "main.js": "/Protein-Visualizer-2.0/static/js/main.0cbf409e.js",
     "static/media/sunlab.png": "/Protein-Visualizer-2.0/static/media/sunlab.a746ce2ea203a1dc57fe.png",
     "static/media/sample proteins_2022_10_05.csv": "/Protein-Visualizer-2.0/static/media/sample proteins_2022_10_05.e063fbc3c4276f30f76f.csv",
     "index.html": "/Protein-Visualizer-2.0/index.html",
     "main.1f1b2050.css.map": "/Protein-Visualizer-2.0/static/css/main.1f1b2050.css.map",
-    "main.3defd3e1.js.map": "/Protein-Visualizer-2.0/static/js/main.3defd3e1.js.map"
+    "main.0cbf409e.js.map": "/Protein-Visualizer-2.0/static/js/main.0cbf409e.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1b2050.css",
-    "static/js/main.3defd3e1.js"
+    "static/js/main.0cbf409e.js"
   ]
 }
