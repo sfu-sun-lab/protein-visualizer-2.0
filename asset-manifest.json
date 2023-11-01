@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Protein-Visualizer-2.0/static/css/main.e8d2c330.css",
-    "main.js": "/Protein-Visualizer-2.0/static/js/main.a236b547.js",
+    "main.js": "/Protein-Visualizer-2.0/static/js/main.d51b9b57.js",
     "static/media/sunlab.png": "/Protein-Visualizer-2.0/static/media/sunlab.a746ce2ea203a1dc57fe.png",
-    "static/media/deep_tmhmm_conflict_proteins_deployment_dataset.csv": "/Protein-Visualizer-2.0/static/media/deep_tmhmm_conflict_proteins_deployment_dataset.a058f361047f7f0c73c2.csv",
+    "static/media/deep_tmhmm_conflict_proteins_deployment_dataset.csv": "/Protein-Visualizer-2.0/static/media/deep_tmhmm_conflict_proteins_deployment_dataset.81dff6264fbb54d1c6ab.csv",
     "index.html": "/Protein-Visualizer-2.0/index.html",
     "main.e8d2c330.css.map": "/Protein-Visualizer-2.0/static/css/main.e8d2c330.css.map",
-    "main.a236b547.js.map": "/Protein-Visualizer-2.0/static/js/main.a236b547.js.map"
+    "main.d51b9b57.js.map": "/Protein-Visualizer-2.0/static/js/main.d51b9b57.js.map"
   },
   "entrypoints": [
     "static/css/main.e8d2c330.css",
-    "static/js/main.a236b547.js"
+    "static/js/main.d51b9b57.js"
   ]
 }
