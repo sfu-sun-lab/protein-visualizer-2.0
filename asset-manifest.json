@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Protein-Visualizer-2.0/static/css/main.29e43a25.css",
-    "main.js": "/Protein-Visualizer-2.0/static/js/main.d346b67c.js",
+    "main.css": "/Protein-Visualizer-2.0/static/css/main.9f4c7a2d.css",
+    "main.js": "/Protein-Visualizer-2.0/static/js/main.05c715fb.js",
+    "static/js/854.d59a2463.chunk.js": "/Protein-Visualizer-2.0/static/js/854.d59a2463.chunk.js",
+    "static/js/362.2e58c0ff.chunk.js": "/Protein-Visualizer-2.0/static/js/362.2e58c0ff.chunk.js",
     "static/media/human_protein_full_list.csv": "/Protein-Visualizer-2.0/static/media/human_protein_full_list.4e2f91387e4a5e92c827.csv",
     "static/media/sunlab.png": "/Protein-Visualizer-2.0/static/media/sunlab.a746ce2ea203a1dc57fe.png",
     "static/media/deep_tmhmm_conflict_proteins_deployment_dataset.csv": "/Protein-Visualizer-2.0/static/media/deep_tmhmm_conflict_proteins_deployment_dataset.81dff6264fbb54d1c6ab.csv",
     "index.html": "/Protein-Visualizer-2.0/index.html",
-    "main.29e43a25.css.map": "/Protein-Visualizer-2.0/static/css/main.29e43a25.css.map",
-    "main.d346b67c.js.map": "/Protein-Visualizer-2.0/static/js/main.d346b67c.js.map"
+    "main.9f4c7a2d.css.map": "/Protein-Visualizer-2.0/static/css/main.9f4c7a2d.css.map",
+    "main.05c715fb.js.map": "/Protein-Visualizer-2.0/static/js/main.05c715fb.js.map",
+    "854.d59a2463.chunk.js.map": "/Protein-Visualizer-2.0/static/js/854.d59a2463.chunk.js.map",
+    "362.2e58c0ff.chunk.js.map": "/Protein-Visualizer-2.0/static/js/362.2e58c0ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29e43a25.css",
-    "static/js/main.d346b67c.js"
+    "static/css/main.9f4c7a2d.css",
+    "static/js/main.05c715fb.js"
   ]
 }
