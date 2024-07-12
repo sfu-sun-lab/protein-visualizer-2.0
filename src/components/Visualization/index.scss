@@ -1,0 +1,32 @@
+.sulfide-labels {
+  font-size: 1.0rem;
+  font-weight: bold;
+  &--pos {
+    font-size: 0.75rem;
+    font-weight: bold;
+  }
+}
+
+.glyco-labels {
+  font-size: 1.0rem;
+  font-weight: bold;
+  color: white; 
+  &--pos {
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: white;
+  }
+}
+
+.windowSvg--wrapper {
+  position: relative;
+  top: -100px;
+  z-index: -1000;
+  // display: inl;
+}
+
+.svg-wrapper{
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}

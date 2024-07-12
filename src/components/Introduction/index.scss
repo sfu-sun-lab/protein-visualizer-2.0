@@ -1,0 +1,29 @@
+.introduction {
+  &--logo {
+    margin-top: 20px;
+    width: 800px;
+  }
+
+  &--wrapper {
+    margin-top: 30px;
+  }
+
+  &--body {
+    width: 800px;
+  }
+
+  &--title {
+    margin-bottom: 10px;
+  }
+
+  &--bullet {
+    width: fit-content;
+  }
+  &--ul {
+    padding: 0;
+    margin-left: 10px
+  }
+}
+.MuiCardMedia-img {
+  object-fit: fill;
+}

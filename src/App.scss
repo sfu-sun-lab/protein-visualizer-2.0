@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  &-header {
+    min-height: 20vh;
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    width: 100vw;
+  }
+
+  &-canvas {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 15vh;
+    min-height: 100vh;
+    width: 100vw;
+    background-color: white;
+  }
+
+  &-searchbar {
+    margin-top: 12vh;
+    float: left;
+  }
+
+  &-dropdown {
+    margin-top: 12vh;
+    float: right;
+    margin-left: 5vh;
+  }
+}
+#page-wrap  {
+  position: relative;
+}
+// .html2canvas-container { width: 3000px !important; height: 3000px !important; }
