@@ -18,6 +18,10 @@ This web application visualizes protein glycosylation sites, disulfide bonds, se
 
 - An export image feature is provided, allowing users to capture publication-quality snapshots of the protein and the window.
 
-Please cite the following publication(s) when using the visualizer:
+Tutorial on how to use the Visualizer 2.0: https://www.youtube.com/watch?v=q8QaIdRW02g
 
--  Discovery and Visualization of the Hidden Relationships among N-Glycosylation, Disulfide Bonds, and Membrane Topology. International Journal of Molecular Sciences. 2023; 24(22):16182.
+Link to the corresponding research paper: https://pubs.acs.org/doi/10.1021/acschembio.4c00485
+
+Please cite the following publication when using the Visualizer 2.0:
+
+Protein Visualizer 2.0: Intuitive and Interactive Visualization of Protein Topology and Co/Post-Translational Modifications. ACS Chemical Biology. 2024, ASAP.
