@@ -4,7 +4,7 @@ Protein Visualizer 1.0:
 URL: https://sfu-sun-lab.github.io/protein-visualizer/
 
 Protein Visualizer 2.0:
-URL: https://mdesai31.github.io/Protein-Visualizer-2.0/
+URL: https://sfu-sun-lab.github.io/protein-visualizer-2.0/
 
 This web application visualizes protein glycosylation sites, disulfide bonds, sequon sites, and cysteine sites to illustrate patterns in their arrangement in relation to the protein topology.
 
