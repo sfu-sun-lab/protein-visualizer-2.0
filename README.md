@@ -23,4 +23,5 @@ Tutorial on how to use the Visualizer 2.0: https://www.youtube.com/watch?v=q8QaI
 Please cite the following publication when using the Visualizer 2.0:
 
 Protein Visualizer 2.0: Intuitive and Interactive Visualization of Protein Topology and Co/Post-Translational Modifications. ACS Chem. Biol. 2024, 19, 9, 1930–1934.
+
 Link to the publication: https://pubs.acs.org/doi/10.1021/acschembio.4c00485
