@@ -37,7 +37,11 @@ function Introduction(props) {
           </Typography>
           <Typography variant="body1">
             This web application visualizes protein glycosylation sites, disulfide bonds, sequon sites, 
-            and cysteine sites to illustrate patterns in their arrangement in relation to the protein topology.
+            and cysteine sites (obtained from <nbsp/>
+              <Link href='https://www.uniprot.org/'>
+              UniProt
+              </Link>
+            ) to illustrate patterns in their arrangement in relation to the protein topology.
           </Typography>
           <ul className="introduction--ul">
             <li className="introduction--bullet">
@@ -70,27 +74,33 @@ function Introduction(props) {
               </Typography>
             </li>
           </ul>
+          <br/>
           <Typography variant="body1">
-            Previous Versions: 
-            <br/>
+          Please cite following publication(s) when using the Visualizer 2.0:
+          </Typography>
+          <ul className="introduction--ul">
+            <li className="introduction--bullet">
+              <Link href='https://pubs.acs.org/doi/10.1021/acschembio.4c00485'>
+                Protein Visualizer 2.0: Intuitive and Interactive Visualization of Protein Topology and Co/Post-Translational Modifications. ACS Chem. Biol. 2024, 19, 9, 1930–1934.
+              </Link>
+            </li>
+          </ul>
+          <Typography variant="body1">
+            Previous Version: 
+            {' '}
               <Link href='https://sfu-sun-lab.github.io/protein-visualizer/'>
                 Protein Visualizer 1.0
               </Link>
           </Typography>
           <br/>
           <Typography variant="body1">
-          Please cite following publication(s) when using the visualizer:
+            Tutorial on how to use the visualizer 2.0: 
+            {' '}
+              <Link href='https://www.youtube.com/watch?v=q8QaIdRW02g'>
+                Youtube
+              </Link>
           </Typography>
-          <ul className="introduction--ul">
-            <li className="introduction--bullet">
-              <Typography variant="body2" display="inline">
-                Protein Visualizer 1.0: <nbsp/>
-                <Link href='https://doi.org/10.3390/ijms242216182'>
-                Discovery and Visualization of the Hidden Relationships among N-Glycosylation, Disulfide Bonds, and Membrane Topology. International Journal of Molecular Sciences. 2023; 24(22):16182.
-                </Link>
-              </Typography>
-            </li>
-          </ul>
+          <br/>
           <Typography variant="body1">
           For further information, contact Dr. Bingyun Sun: bingyun_sun@sfu.ca
           </Typography>

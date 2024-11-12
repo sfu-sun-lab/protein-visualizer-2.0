@@ -176,6 +176,7 @@ function App() {
       const domain = parseSequence(entry['Orientation'], entry['Length']);
       const sequons = extractSequons(extractGlycoBonds());
       const cysteines = extractCysteines(extractDsBonds());
+      console.log(extractDsBonds())
       return {
         value: entry['Name'],
         description: entry['Protein name'],

@@ -201,8 +201,8 @@ function Legend(props) {
           <Typography display="inline" placement="left-end" style={{marginRight: '1rem',marginTop: '0.75rem'}}>
             Topology:
           </Typography>
-          <Button placement="right-end" variant='outlined' color='primary' style={{ marginRight: '1rem', marginTop: '1rem'}} onClick= {() => handleToggle('outside')}>Outside</Button>
-          <Button placement="right-end" variant='outlined' color='secondary' style={{marginTop: '1rem'}} onClick= {() => handleToggle('inside')}>Inside</Button>
+          <Button placement="right-end" variant='outlined' color='primary' style={{ marginRight: '1rem', marginTop: '1rem'}} onClick= {() => handleToggle('outside')}>Out</Button>
+          <Button placement="right-end" variant='outlined' color='secondary' style={{marginTop: '1rem'}} onClick= {() => handleToggle('inside')}>In</Button>
         </div>
       </CardContent>
     </Card>
